@@ -16,7 +16,7 @@
     <td>
       <a href="https://#gh-light-mode-only">
         <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mayoi-Akira&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mayoi-Akira&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&hide=jupyter%20notebook"
           height="200" />
       </a>
       <a href="https://#gh-dark-mode-only">
